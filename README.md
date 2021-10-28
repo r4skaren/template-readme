@@ -1,20 +1,28 @@
-# Nome do projeto
+<div align="center">
+  
+# Nome do Projeto
 
 <!---A seguir você verá alguns exemplos de botões. Caso deseje em outro formato veja neste site: https://shields.io lá havéra coisas como dependências, status do projeto informações de licença, redes sociais entre outros--->
 
-<div align="center">
 
 
+![GitHub last-modified](https://img.shields.io/aur/last-modified/template?label=ultima%20modificacao&style=social)
+![GitHub forks](https://img.shields.io/github/forks/r4skaren/template-readme?style=social)
+![GitHub language count](https://img.shields.io/github/languages/count/r4skaren/template-readme?&label=linguagens&style=social)
+![GitHub stars](https://img.shields.io/github/stars/r4skaren/template-readme?label=estrelas&style=social)
 
-
-<img src="https://image.freepik.com/free-photo/white-cat-lies-woman-s-knees_8353-539.jpg" alt="exemplo imagem">
+<img src="https://cdn.pixabay.com/photo/2021/10/19/10/56/cat-6723256_960_720.jpg" alt="exemplo imagem">
   </div>
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+<br>
 
-### Ajustes e melhorias
+> Linha para texto inicial sobre o projeto (2 ou 3 linhas) ou uma frase que te inspira.
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+<br>
+
+### 🚧 Ajustes e melhorias
+
+O projeto ainda está em desenvolvimento e as próximas atualizações envolverão seguintes tarefas:
 
 - [x] Tarefa 1
 - [x] Tarefa 2
@@ -22,25 +30,25 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Tarefa 4
 - [ ] Tarefa 5
 
-## 💻 Pré-requisitos
+<br>
+
+## 💻 Pré-requisitos para rodar o projeto
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+<!---Adicionar, duplicar ou remover conforme necessário--->
+* Descruzou as pernas e fez oração do dev 
+* Leu atentamente  documentação `<guia / link / documentação_relacionada_ao_projeto>`.
+
+
+
+<br>
 
 ## 🚀 Instalando <nome_do_projeto>
 
 Para instalar o <nome_do_projeto>, siga estas etapas:
 
-Linux e macOS:
-```
-<comando_de_instalação>
-```
-
 Windows:
-```
+```linguagem
 <comando_de_instalação>
 ```
 
@@ -48,11 +56,13 @@ Windows:
 
 Para usar <nome_do_projeto>, siga estas etapas:
 
-```
+```linguagem
 <exemplo_de_uso>
 ```
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
+
+<br>
 
 ## 📫 Contribuindo para <nome_do_projeto>
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
@@ -74,35 +84,31 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://i.pinimg.com/564x/d7/f4/09/d7f409fe8e0b93a5efd111a3cd60c0ac.jpg" width="100px;" height="100px" alt="Foto"/><br>
+        <img src="https://avatars.githubusercontent.com/u/86742652?v=4" width="100px;" height="100px" alt="Foto"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Karen Rodrigues</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://i.pinimg.com/564x/46/30/73/463073b62d7c1b09523e970e33d8d5cc.jpg" width="100px;" height="100px" alt="Foto"/><br>
+        <img src="https://user-images.githubusercontent.com/86742652/139269355-7f74d145-7b70-4223-a0fb-b4cd8539d9df.png" width="100px;" height="100px" alt="Foto"/><br>
         <sub>
-          <b>Mark Zuckerberg</b>
+          <b>Mari</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://i.pinimg.com/564x/78/12/51/781251a04e062b46a63dfc5b2425a9e6.jpg" width="100px;" height="100px" alt="Foto"/><br>
+        <img src="https://i.pinimg.com/564x/35/c9/8a/35c98a39b00b463a1fbe67597e689c8f.jpg" width="100px;" height="100px" alt="Foto"/><br>
         <sub>
-          <b>Steve Jobs</b>
+          <b>elle</b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
 
-
-## 😄 Seja um dos contribuidores<br>
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 
 ## 📝 Licença
 

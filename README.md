@@ -37,7 +37,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações envolver�
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Adicionar, duplicar ou remover conforme necessário--->
 * Descruzou as pernas e fez oração do dev 
-* Leu atentamente  documentação `<guia / link / documentação_relacionada_ao_projeto>`.
+* Leu atentamente a documentação `<guia / link / documentação_relacionada_ao_projeto>`.
 
 
 

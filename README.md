@@ -1,14 +1,10 @@
 # Nome do projeto
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
+<!---A seguir você verá alguns exemplos de botões. Caso deseje em outro formato veja neste site: https://shields.io lá havéra coisas como dependências, status do projeto informações de licença, redes sociais entre outros--->
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+
 
 
 <img src="https://image.freepik.com/free-photo/white-cat-lies-woman-s-knees_8353-539.jpg" alt="exemplo imagem">
